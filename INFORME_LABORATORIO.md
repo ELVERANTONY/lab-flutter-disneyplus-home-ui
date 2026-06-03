@@ -2,7 +2,7 @@
 **Estudiante:** Antony Cholan  
 **Curso:** Desarrollo de Aplicaciones Multiplataforma - 5to Ciclo  
 **Institución:** Tecsup  
-**Enlace a GitHub:** [https://github.com/tecsup-labs/lab-flutter-student-management-app.git](https://github.com/tecsup-labs/lab-flutter-student-management-app.git) *(Reemplazar con tu enlace de repositorio de Disney+)*
+**Enlace a GitHub:** [https://github.com/ELVERANTONY/lab-flutter-disneyplus-home-ui.git](https://github.com/ELVERANTONY/lab-flutter-disneyplus-home-ui.git)
 
 ---
 
